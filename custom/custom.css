@@ -1,0 +1,34 @@
+@import url(fonts/SeoulNamsanJungM/seoul-namsan-jung-m.css);
+@import url(fonts/SeoulNamsanJungB/seoul-namsan-jung-b.css);
+@import url(fonts/SeoulNamsanJungL/seoul-namsan-jung-l.css);
+@import url(fonts/SeoulNamsanJangBL/seoul-namsan-jang-bl.css);
+@import url(fonts/SeoulNamsanJungEB/seoul-namsan-jung-eb.css);
+@import url(fonts/SeoulNamsanJungvert/seoul-namsan-jung-vert.css);
+@import url(fonts/SeoulNamsanJangEB/seoul-namsan-jang-eb.css);
+@import url(fonts/SeoulNamsanJangM/seoul-namsan-jang-m.css);
+@import url(fonts/SeoulNamsanJangB/seoul-namsan-jang-b.css);
+@import url(fonts/SeoulNamsanJangL/seoul-namsan-jang-l.css);
+
+.text_cell {
+    font-family: seoul-namsan-jung-m !important;
+}
+
+.text_cell h1, .text_cell h2, .text_cell h3, .text_cell h4, .text_cell h5, .text_cell h6 {
+    font-family: seoul-namsan-jung-b !important;
+}
+
+.CodeMirror pre {
+    font-family: D2Coding;
+}
+
+.container {
+    width:100% !important;
+}
+
+div.output pre{
+}
+
+.rendered_html table {
+    margin: 1em 0;
+}
+
